@@ -1,0 +1,11 @@
+{
+  "name": "cdn-alexandremarques",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "author": "Alexandre Marques",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "vercel deploy --prod"
+  }
+}
